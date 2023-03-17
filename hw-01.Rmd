@@ -17,7 +17,7 @@ This is **bold**.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+This is **italic**.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
