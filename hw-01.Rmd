@@ -52,7 +52,7 @@ $$\sum_{n=1}^{10} n^2$$
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+$$ e^{i\pi}+1=0 $$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
