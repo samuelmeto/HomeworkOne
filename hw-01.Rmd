@@ -44,7 +44,7 @@ This is **italic bold**.
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
