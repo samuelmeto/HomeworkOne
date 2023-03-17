@@ -24,7 +24,10 @@ This is **italic**.
 This is **italic bold**.
 
 **Question 4** With Markdown write an unordered list with three items.
-
+* Item 1
+* Item 2
+  *Item 2a
+  *Item 2b
 
 
 **Question 5** With Markdown write an ordered list with three items.
