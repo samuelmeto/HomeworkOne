@@ -13,7 +13,7 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-Write Your Answer Here!
+This is **bold**.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
