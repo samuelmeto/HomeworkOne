@@ -56,4 +56,5 @@ $$ e^{i\pi}+1=0 $$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+# Adding two numbers
+3 + 4 == [1] 7
