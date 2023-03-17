@@ -32,7 +32,11 @@ This is **italic bold**.
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+* Item 1
+* Item 2
+* Item 3 
+       * Item 3a
+       * Item 3b
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
