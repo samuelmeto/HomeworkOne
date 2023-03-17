@@ -21,11 +21,11 @@ This is **italic**.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+This is **italic bold**.
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+
 
 **Question 5** With Markdown write an ordered list with three items.
 
